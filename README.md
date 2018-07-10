@@ -10,4 +10,4 @@ http://www.cvlibs.net/software/libelas/
     这样支持点其实比ELAS少很多所以计算时间省了回来，笔者觉得是非常有道理的。
     在Intel Core i7的台式机上处理大概VGA分辨率LS-ELAS能达到60fps，越大分辨率LS-ELAS相比ELAS的速度优势越明显。
     
-    
+[LS-ELAS论文 ](http://www.cogsys.cs.uni-tuebingen.de/publikationen/2017/JellalICRA17.pdf)
